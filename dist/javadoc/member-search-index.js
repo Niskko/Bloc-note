@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"blocnotes","c":"blocnotes","l":"blocnotes()","u":"%3Cinit%3E()"},{"p":"blocnotes","c":"blocnotes","l":"countNumOfChar(String)","u":"countNumOfChar(java.lang.String)"},{"p":"blocnotes","c":"blocnotes","l":"dispose()"},{"p":"blocnotes","c":"blocnotes","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
